@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "sdypy-template"
+name = "opensd2025_track4"
 version = "0.1.0"
 authors = [{name = "Janko Slavič et al.", email = "janko.slavic@fs.uni-lj.si"}]
 maintainers = [{name = "Janko Slavič et al.", email = "janko.slavic@fs.uni-lj.si"}]
@@ -44,9 +44,9 @@ dev = [
 ]
 
 [project.urls]
-homepage = "https://github.com/sdypy/sdypy_template_project"
-documentation = "https://github.com/sdypy/sdypy_template_project"
-source = "https://github.com/sdypy/sdypy_template_project"
+homepage = "https://github.com/klemengit/OpenSD2025_repo"
+documentation = "https://opensd2025-repo.readthedocs.io/en/latest/"
+source = "https://github.com/klemengit/OpenSD2025_repo"
 
 # Define the files that are included in the wheel
 [tool.hatch.build.targets.wheel]
