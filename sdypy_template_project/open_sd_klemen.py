@@ -1,2 +1,2 @@
 def my_name():
-    return "Klemen Zaletelj"
+    return "Io sono Klemen Zaletelj"
