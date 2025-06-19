@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "opensd2025_track4"
-version = "0.1.1"
+version = "0.1.2"
 authors = [
     { name = "Janko Slavič et al.", email = "janko.slavic@fs.uni-lj.si" },
 ]

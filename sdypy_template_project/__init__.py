@@ -2,6 +2,6 @@
 A project template for the SDyPy effort..
 """
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 from .core import get_displacements, roi_xy
 from .visualize import show_reference_image, animate_video
