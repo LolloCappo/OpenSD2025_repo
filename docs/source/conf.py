@@ -20,10 +20,10 @@ sys.path.insert(0, os.path.abspath('../..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'SDyPy project template'
-copyright = '2021, Janko Slavič, Domen Gorjup, Klemen Zaletelj'
-author = 'Janko Slavič, Domen Gorjup, Klemen Zaletelj'
-one_line_description = 'A template for SDyPy projects.'
+project = 'OpenSD2025_track4'
+copyright = '2025, Lorenzo, Daniele, Klemen'
+author = 'Lorenzo, Daniele, Klemen'
+one_line_description = 'This is our package that we did as part of the Track 4.'
 
 # The short X.Y version
 version = '0.1'

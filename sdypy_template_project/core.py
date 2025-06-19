@@ -11,6 +11,12 @@ def cost_function(p, x, y, f, g, W):
     The cost function to minimize in the optimization process. The element-wise
     difference between the reference image f(x, y) and a tansformed current
     image g(W(x, y)).
+
+    Example:
+
+    >>> a = np.arange(0, 2, 0.1)
+    >>> b = a * 10
+
     
     Args:
         p (array of shape (n,)): The geometric transform parameters to
